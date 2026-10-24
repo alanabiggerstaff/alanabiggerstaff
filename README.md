@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+## I am currently a student at Truman State University, majoring in Computer Science with a minor in Linguistics, and my expected graduation date is in May 2030. I have studied both Python and Java, and I am planning on learning C++ in the near future. I am detail oriented and have a strong passion for Computer Science and Linguistics. I am well-versed in customer service and problem-solving, having worked in related fields and working at Wentzville Holt's student computer help desk.
 
 <!--
 **alanabiggerstaff/alanabiggerstaff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
